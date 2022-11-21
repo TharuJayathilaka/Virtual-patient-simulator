@@ -1,1 +1,1 @@
-# Virtual-patient-simulator
+# virtual-patient-simulator
